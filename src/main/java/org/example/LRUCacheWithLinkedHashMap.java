@@ -3,6 +3,8 @@ package org.example;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+// LRUCacheWithLinkedHashMap
+
 public class LRUCacheWithLinkedHashMap extends LinkedHashMap {
     private final int capacity;
 
